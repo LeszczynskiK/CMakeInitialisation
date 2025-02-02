@@ -1,0 +1,3 @@
+/home/krzysiek89/Desktop/CPP_programs/CMakeConf/CMakeFiles/rebuild_cache.dir
+/home/krzysiek89/Desktop/CPP_programs/CMakeConf/CMakeFiles/edit_cache.dir
+/home/krzysiek89/Desktop/CPP_programs/CMakeConf/CMakeFiles/MyExecutable.dir

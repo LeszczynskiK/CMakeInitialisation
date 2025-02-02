@@ -1,0 +1,1 @@
+int dodaj(int,int);
