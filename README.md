@@ -11,7 +11,7 @@ How to initialise CMake in project
 
 5. Generate cmake compilation files: cmake . . (. this directory, . this overhead directory)
 
-6. If generated, build your project: cmake --build
+6. If generated, build your project: cmake --build . (. this directory - build here!)
 
 7. If build, you can run your program by ./name_of_program 
 Name of program is written in add_executable(name_of_program, ....)
