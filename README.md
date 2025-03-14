@@ -15,3 +15,6 @@ How to initialise CMake in project
 
 7. If build, you can run your program by ./name_of_program 
 Name of program is written in add_executable(name_of_program, ....)
+
+8. When threads are added, include on the end of CMakeLists.txt this:  
+target_link_libraries(MyExecutable pthread)  
