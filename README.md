@@ -1,5 +1,6 @@
 # CMakeInitialisation
 How to initialise CMake in project
+This is also base for GoogleTest(with CMake usage)  
 
 1. Make main folder for your project
 
